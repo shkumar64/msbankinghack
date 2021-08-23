@@ -45,8 +45,8 @@ $cosmos_database_name = "fsi-marketdata"
 
 RefreshTokens
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-Install-Module -Name PowerShellGet -Force
-Install-Module -Name CosmosDB -Force
+#Install-Module -Name PowerShellGet -Force
+#Install-Module -Name CosmosDB -Force
 $cosmosDbAccountName = $cosmos_account_name
 $databaseName = $cosmos_database_name
 Write-Host "CosmosDb Account $cosmosDbAccountName"
@@ -92,6 +92,6 @@ foreach($name in $cosmos)
        Write-Host "Item $body"
        Write-Host "$cosmosDbContext , $collection , $key"
        Start-Sleep -s 3
-       res = New-CosmosDbDocument -Context $cosmosDbContext -CollectionId $collection -DocumentBody $body -PartitionKey $key
+       $res = New-CosmosDbDocument -Context $cosmosDbContext -CollectionId $collection -DocumentBody $body -PartitionKey $key
     }	
 } 
