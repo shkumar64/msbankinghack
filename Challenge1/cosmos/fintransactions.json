@@ -1,0 +1,355 @@
+[
+	{
+        "TransactionID": "BIY69HWC8HJ",
+		"State": "Washington",
+		"TransactionType": "Cash ",
+	    "TransactionAmount": 5007,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "LYM46NSD6PR",
+		"State": "Nebraska",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 4293,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "LSX15XFX7KJ",
+		"State": "Oregon",
+		"TransactionType": " Check",
+		"TransactionAmount": 1054,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "NPP88HOL7ID",
+		"State": "Nebraska",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 145,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "LRI22CXT0QI",
+		"State": "Arkansas",
+		"TransactionType": " POS ",
+		"TransactionAmount": 4367,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "NRK98QUN5DR",
+		"State": "Arkansas",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 4038,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "PSJ03XXM3AA",
+		"State": "Wyoming",
+		"TransactionType": " Check",
+		"TransactionAmount": 4116,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "KYB55CKT6RY",
+		"State": "Wyoming",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 995,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "ISM57DBG1JV",
+		"State": "Maryland",
+		"TransactionType": " Check",
+		"TransactionAmount": 5072,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "GKL31EYV3KB",
+		"State": "Tennessee",
+		"TransactionType": " POS ",
+		"TransactionAmount": 3056,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "IUY75KZJ5SK",
+		"State": "Missouri",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 3070,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "VAR91XFC0GD",
+		"State": "Pennsylvania",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 6699,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "XLM64XJJ2TR",
+		"State": "Illinois",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 3290,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "QCC80PSF0ZT",
+		"State": "Louisiana",
+		"TransactionType": " Check",
+		"TransactionAmount": 9374,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "EZL78NNC9CQ",
+		"State": "Ohio",
+		"TransactionType": " Check",
+		"TransactionAmount": 8384,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "DRW34JPP4TH",
+		"State": "California",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 6544,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "FSP07WLB7BC",
+		"State": "California",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 1381,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "IZG62JZM2GP",
+		"State": "Missouri",
+		"TransactionType": " Check",
+		"TransactionAmount": 8857,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "PJI55ZOX0UR",
+		"State": "Arkansas",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 3244,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "KHQ87KMQ7TT",
+		"State": "Louisiana",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 5254,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "RIR37HDP3BD",
+		"State": "Nevada",
+		"TransactionType": " POS ",
+		"TransactionAmount": 713,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "ZPL33HOP1NC",
+		"State": "Tennessee",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 4533,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "JPA21FNY2BW",
+		"State": "Nevada",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 374,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "ZZY72DTG7OO",
+		"State": "Kentucky",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 9374,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "CZE18BSD0QF",
+		"State": "Florida",
+		"TransactionType": " POS ",
+		"TransactionAmount": 324,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "EAV12EHC9WU",
+		"State": "Illinois",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 1234,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "CEH49AWX4UB",
+		"State": "Oklahoma",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 7654,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "HKP31LLW3CE",
+		"State": "Illinois",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 234,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "WMA78VNI3SB",
+		"State": "Mississippi",
+		"TransactionType": " Check",
+		"TransactionAmount": 8876,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "XON17PYT2OC",
+		"State": "Connecticut",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 213,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "GVI70GZE3OF",
+		"State": "Florida",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount":2300,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "WPX56DLF5QP",
+		"State": "Idaho",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 3212,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "ZGJ61URS4MD",
+		"State": "Texas",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 8136,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "RYV78YRV2WK",
+		"State": "Wyoming",
+		"TransactionType": " POS ",
+		"TransactionAmount": 974,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "KWI66MJJ8QP",
+		"State": "Maine",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 9974,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "RCE80RRG6GG",
+		"State": "Texas",
+		"TransactionType": " POS ",
+		"TransactionAmount": 174,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "UUZ33LFN3HR",
+		"State": "Kentucky",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 5122,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "TXX38BFC6NG",
+		"State": "Kentucky",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 2374,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "WVM25YYT0CN",
+		"State": "Maine",
+		"TransactionType": " POS ",
+		"TransactionAmount": 211,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "BJO96YUH3HH",
+		"State": "Wyoming",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 7664,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "KGL55JDD0WP",
+		"State": "Kentucky",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 2212,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "ZDE59JQM6ZU",
+		"State": "Georgia",
+		"TransactionType": " Check",
+		"TransactionAmount": 1765,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "AST85SZX5BL",
+		"State": "Virginia",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 7655,
+		"isFraud": 0,
+		"OFACviolation": 1
+	},
+	{
+		"TransactionID": "HOP59RKG1EA",
+		"State": "Ohio",
+		"TransactionType": " POS ",
+		"TransactionAmount": 9374,
+		"isFraud": 0,
+		"OFACviolation": 1
+	}
+	
+]
