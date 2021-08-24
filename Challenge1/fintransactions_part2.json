@@ -1,0 +1,66 @@
+[
+	{
+		"TransactionID": "GKA53CJC8ZT",
+		"State": "Ohio",
+		"TransactionType": " POS ",
+		"TransactionAmount": 5007,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "LYM46NSD6PR",
+		"State": "Nebraska",
+		"TransactionType": " ACH ",
+		"TransactionAmount": 1000,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "LSX15XFX7KJ",
+		"State": "Oregon",
+		"TransactionType": " Check",
+		"TransactionAmount": 2005,
+		"isFraud": 0,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "NPP88HOL7ID",
+		"State": "Washington",
+		"TransactionType": " WireTransfer ",
+		"TransactionAmount": 5600,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "LRI22CXT0QI",
+		"State": "Arkansas",
+		"TransactionType": " POS ",
+		"TransactionAmount": 2737,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "NRK98QUN5DR",
+		"State": "Arkansas",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 2337,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	{
+		"TransactionID": "PSJ03XXM3AA",
+		"State": "Wyoming",
+		"TransactionType": " Check",
+		"TransactionAmount": 3456,
+		"isFraud": 1,
+		"OFACviolation": 0	},
+	{
+		"TransactionID": "KYB55CKT6RY",
+		"State": "Wyoming",
+		"TransactionType": "Cash ",
+		"TransactionAmount": 2345,
+		"isFraud": 1,
+		"OFACviolation": 0
+	},
+	
+]
