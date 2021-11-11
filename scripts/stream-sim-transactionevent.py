@@ -19,7 +19,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 
 
 
-CONNECTION_STR = 'Endpoint=sb://eventhub478817.servicebus.windows.net/;SharedAccessKeyName=PreviewDataPolicy;SharedAccessKey=DZq8yiaU4WyQQqYHBCLdnz4e7XedlvKhnsjN7eAPPoA='
+CONNECTION_STR = ''
 EVENTHUB_NAME = 'incoming-stream'
 
 
